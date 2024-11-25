@@ -168,17 +168,6 @@ main {
 }
 
     @media(max-width:320px){
-        nav button{
-            /* height: 20px; */
-            /* width: 100%; */
-            /* align-self: center; */
-            /* align-content: cent; */
-            width: 489%;
-            border-radius: 0;
-            font-size: xx-small;
-            /* text-align: center; */
-            /* align-items: center; */
-    }
     li{
         margin: 0.1rem;
     }
